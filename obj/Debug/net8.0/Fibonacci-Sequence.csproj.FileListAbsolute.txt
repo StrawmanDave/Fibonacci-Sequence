@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.AssemblyInfo.cs
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.sourcelink.json
+/home/david/david-progamming-1400/Fibonacci-Sequence/bin/Debug/net8.0/Fibonacci-Sequence
+/home/david/david-progamming-1400/Fibonacci-Sequence/bin/Debug/net8.0/Fibonacci-Sequence.deps.json
+/home/david/david-progamming-1400/Fibonacci-Sequence/bin/Debug/net8.0/Fibonacci-Sequence.runtimeconfig.json
+/home/david/david-progamming-1400/Fibonacci-Sequence/bin/Debug/net8.0/Fibonacci-Sequence.dll
+/home/david/david-progamming-1400/Fibonacci-Sequence/bin/Debug/net8.0/Fibonacci-Sequence.pdb
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.dll
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/refint/Fibonacci-Sequence.dll
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.pdb
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/Fibonacci-Sequence.genruntimeconfig.cache
+/home/david/david-progamming-1400/Fibonacci-Sequence/obj/Debug/net8.0/ref/Fibonacci-Sequence.dll
